@@ -89,11 +89,7 @@ Log Analyzer Pro — это мощный анализатор веб-логов 
 
 ---
 
-## 2. Установка зависимостей
 
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
@@ -173,7 +169,6 @@ project/
 Планируемые функции:
 - GeoIP анализ
 - Экспорт CSV/Excel
-- ClickHouse поддержка
 - AI-анализ аномалий
 - Live monitoring
 - Apache/Nginx presets
